@@ -1,2 +1,3 @@
-# techrise-blue22
-NASA TechRise Challenge Winners - Blue 22 Code
+# NASA TechRise Challenge Winners - Blue 22
+
+Aragon High School - San Mateo, California
